@@ -34,6 +34,8 @@ We're completely open-source and publish our data as open data.
 
 ## About ListenBrainz?
 ListenBrainz is operated by the MetaBrainz Foundation which has a long-standing history of curating, protecting and making music data available to the public. MetaBrainz commits itself to safe-guarding the ListenBrainz data indefinitely.
+
+
 The data collected by the ListenBrainz Android app, such as your listening history, is sent to the ListenBrainz server, where it is stored and aggregated. The server uses this data to generate personalized music recommendations based on your listening habits and preferences.
 
 When you use the ListenBrainz Android app, you need to create an account with ListenBrainz, and your listening history will be associated with this account. This data is not kept on the device but is transmitted to the ListenBrainz server. The data collected is used to improve the recommendations and is accessible to other users.
